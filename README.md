@@ -3,5 +3,5 @@
 
 requires Visual Studio 2022 Preview with release candidate of .NET7
 
-For .NET6 version of the same example go here:
+For .NET6 version of the same example visit:
 https://github.com/PSPDFKit-labs/pspdfkit-maui6-example
